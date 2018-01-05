@@ -1,6 +1,6 @@
 # ticketchain
 
-You need truffle and meta mask to run this project
+You need Truffle v3.4.11 and meta mask to run this project
 Stay in the root of the project in the terminal
 
 - Enable and sign in to Metamask
